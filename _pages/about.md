@@ -7,5 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-# About
-# `_pages/about.md`
+# _pages/about.md
